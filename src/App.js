@@ -5,7 +5,7 @@ export default function App() {
     <div className="App">
       <h2>
         <a href="https://magnate.mobi">generators</a>,{" "}
-        <a href="https://magnate.mobi">splash</a>,{" "}
+        splash,{" "}
         <a href="https://magnate.auto">model</a>
       </h2>
       <img
