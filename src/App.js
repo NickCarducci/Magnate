@@ -21,6 +21,14 @@ export default function App() {
       >
         https://www.academia.edu/45132997/Written_for_National_Science_Foundation_Project_Pitch
       </a>
+      <br />
+      <div style={{ position: "relative", width: "300px" }}>
+        <img
+        alt="plagerism, exclusion and monopoly by Government"
+          style={{ width: "100%", height: "auto" }}
+          src="https://www.dl.dropboxusercontent.com/s/vica68gl2199r9j/Screen%20Shot%202021-03-23%20at%201.53.40%20PM.png?dl=0"
+        />
+      </div>{" "}
     </div>
   );
 }
