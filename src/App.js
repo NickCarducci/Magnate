@@ -24,11 +24,20 @@ export default function App() {
       <br />
       <div style={{ position: "relative", width: "300px" }}>
         <img
-        alt="plagerism, exclusion and monopoly by Government"
+          alt="plagerism, exclusion and monopoly by Government"
           style={{ width: "100%", height: "auto" }}
           src="https://www.dl.dropboxusercontent.com/s/vica68gl2199r9j/Screen%20Shot%202021-03-23%20at%201.53.40%20PM.png?dl=0"
         />
-      </div>{" "}
+      </div>
+      <br />
+      [mass(electrons_compositi)xlightspeedScales; light is the loss of
+      electrons but most are exchanged as they move through the air. the point
+      of the equation was to describe gravity but that is the electron. Do we
+      know where electrons come from?&nbsp;
+      <a href="https://pubs.rsc.org/en/content/articlelanding/2019/sc/c8sc04500c">
+        the Protons themselves
+      </a>
+      ?]
     </div>
   );
 }
