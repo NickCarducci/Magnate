@@ -12,8 +12,8 @@ export default function App() {
         alt="https://www.dl.dropboxusercontent.com/s/t5ueazsx7ikk4ia/magnetboi.jpg?dl=0"
       ></img>
       <br />
-      It is just a tarus again, accelerate, mount or just clip whole copper wrap
-      on to ...radius exxacltly in thickness
+      It is just a tarus again, accelerate, mount or just clip whole iridium
+      wrap on to ...radius exxacltly in thickness
       <br />
       <a
         style={{ wordBreak: "break-word" }}
@@ -32,7 +32,8 @@ export default function App() {
       <br />
       [mass(electrons_compositi)xlightspeedScales; light is the loss of
       electrons but most are exchanged as they move through the air. the point
-      of the equation was to describe gravity but that is the electron. Do we
+      of the equation was to describe gravity but that is the&nbsp;
+      <a href="https://pubs.acs.org/doi/10.1021/ac051323m">electron</a>. Do we
       know where electrons come from?&nbsp;
       <a href="https://pubs.rsc.org/en/content/articlelanding/2019/sc/c8sc04500c">
         the Protons themselves
