@@ -3,6 +3,9 @@ import "./styles.css";
 export default function App() {
   return (
     <div className="App">
+      What's the problem? combustion of cardbon binds CO2, ice cores count
+      carbon. light speed squared cross multiplies and cancels out. the&nbsp;
+      <a href="https://micro-theory.com">law of gravity</a>
       <h2>
         <a href="https://magnate.mobi">generators</a>, splash,{" "}
         <a href="https://magnate.auto">model</a>
