@@ -166,6 +166,55 @@ export default class App extends React.Component {
         intermediate-goods, competing with consumers of suppliers of other
         industries. competing with consumers cannot make it more expensive when
         discerning between apples and oranges, it is a whole new greenfield
+        <br />
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1bJOuFiP6jv_D5kv7Jiq-jVjdhaS0l8OE/preview"
+          }
+          float="left"
+          title="Stinchfield (Newsmax) - Kelli Ward on Musk free rider immutable support delete function"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 1]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        we know people in debt do not need to compound interest and launder
+        third party beneficiary donee claimable and launder employees and
+        consumers
+        <a
+          style={{
+            shapeOutside: "rect()",
+            float: "left",
+            width: "max-content",
+            padding: "0px 10px",
+            fontSize: "20px",
+            fontFamily: "'Pacifico', sans-serif",
+            color: "rgb(230,230,255)",
+            backgroundColor: "rgb(32, 22, 11)"
+          }}
+          href="https://carducci.sh"
+        >
+          carducci.sh
+        </a>
+        <a
+          style={{
+            shapeOutside: "rect()",
+            float: "left",
+            width: "max-content",
+            padding: "0px 10px",
+            fontSize: "20px",
+            fontFamily: "'Pacifico', sans-serif",
+            color: "rgb(230,230,255)",
+            backgroundColor: "rgb(32, 22, 11)"
+          }}
+          href="https://carducci.us"
+        >
+          carducci.us
+        </a>
       </div>
     );
   }
