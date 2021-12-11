@@ -122,16 +122,6 @@ export default class App extends React.Component {
         </a>
         <br />
         <br />
-        [mass(electrons_compositi)xlightspeedScales; light is the loss of
-        electrons but most are exchanged as they move through the air. the point
-        of the equation was to describe gravity but that is the&nbsp;
-        <a href="https://pubs.acs.org/doi/10.1021/ac051323m">electron</a>. Do we
-        know where electrons come from?&nbsp;
-        <a href="https://pubs.rsc.org/en/content/articlelanding/2019/sc/c8sc04500c">
-          the Protons themselves
-        </a>
-        ?]
-        <br />
         <img
           alt="plagerism, exclusion and monopoly by Government"
           style={{
@@ -144,10 +134,16 @@ export default class App extends React.Component {
           }}
           src="https://www.dl.dropboxusercontent.com/s/vica68gl2199r9j/Screen%20Shot%202021-03-23%20at%201.53.40%20PM.png?dl=0"
         />
-        <h2>
-          demand as exclusively labor, corporate profits like net loss bonds and
-          gini without home nor bond prices
-        </h2>
+        [mass(electrons_compositi)xlightspeedScales; light is the loss of
+        electrons but most are exchanged as they move through the air. the point
+        of the equation was to describe gravity but that is the&nbsp;
+        <a href="https://pubs.acs.org/doi/10.1021/ac051323m">electron</a>. Do we
+        know where electrons come from?&nbsp;
+        <a href="https://pubs.rsc.org/en/content/articlelanding/2019/sc/c8sc04500c">
+          the Protons themselves
+        </a>
+        ?]
+        <br />
         <Cable
           onError={handleScollImgError}
           src={
@@ -158,10 +154,14 @@ export default class App extends React.Component {
           float="left"
           title="Save the Nation (Newsmax) - Myron bell on the energy industry"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 1]}
+          fwd={this["scrollImg" + 4]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
+        <h2>
+          demand as exclusively labor, corporate profits like net loss bonds and
+          gini without home nor bond prices
+        </h2>
         “Making it more expensive by crowding out,” only can be from
         intermediate-goods, competing with consumers of suppliers of other
         industries. competing with consumers cannot make it more expensive when
@@ -178,13 +178,49 @@ export default class App extends React.Component {
           float="left"
           title="Stinchfield (Newsmax) - Kelli Ward on Musk free rider immutable support delete function"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 1]}
+          fwd={this["scrollImg" + 3]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
         we know people in debt do not need to compound interest and launder
         third party beneficiary donee claimable and launder employees and
         consumers
+        <br />
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1kaCwWn6nDz9VQyGm2Ppbu1Re5DZoOYXp/preview"
+          }
+          float="right"
+          title="The Count (Newsmax) - left insistence on industry discretion before willing customers"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 2]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        Isn’t lithium ion battery source in the ground? You are comparing carbon
+        binding to mining & battery-making, because we have no lithium mines?
+        Just use magnate.company, or is NSF not malfeasant in saying it is not
+        transformative nor original?
+        <br />
+        <Cable
+          style={{ width: "400px", height: "270px" }}
+          onError={handleScollImgError}
+          src={
+            this.state.iosNoPhoto
+              ? ""
+              : "https://drive.google.com/file/d/1ESzXvW6FEsyssNn-S9Dfg5npIERkMv8E/preview"
+          }
+          float="left"
+          title="The Count (Newsmax) - electric vehiicles"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 1]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
         <a
           style={{
             shapeOutside: "rect()",
