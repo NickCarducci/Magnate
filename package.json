@@ -1,13 +1,22 @@
 {
-  "name": "react",
+  "name": "magnate",
   "version": "1.0.0",
-  "description": "React example starter project",
-  "keywords": ["react", "starter"],
+  "description": "Magnate.company circular magnetic engines",
+  "keywords": [
+    "torus",
+    "battery",
+    "reactor",
+    "electrons",
+    "gravity",
+    "momentum",
+    "deprecation"
+  ],
   "main": "src/index.js",
   "dependencies": {
     "react": "17.0.1",
     "react-dom": "17.0.1",
-    "react-scripts": "4.0.0"
+    "react-scripts": "4.0.0",
+    "ua-parser-js": "1.0.2"
   },
   "devDependencies": {
     "typescript": "4.1.3"
