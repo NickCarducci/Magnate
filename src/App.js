@@ -105,6 +105,10 @@ export default class App extends React.Component {
           src="https://www.dl.dropboxusercontent.com/s/t5ueazsx7ikk4ia/magnetboi.jpg?dl=0"
           alt="https://www.dl.dropboxusercontent.com/s/t5ueazsx7ikk4ia/magnetboi.jpg?dl=0"
         />
+        <h2>
+          Electrons aren’t just “pure energy” but gravity, e=mc^2 cancels out,
+          so Einstein is stupid or trolling.
+        </h2>
         What's the problem? combustion of cardbon binds CO2, ice cores count
         carbon. light speed squared cross multiplies and cancels out. the&nbsp;
         <a href="https://micro-theory.com">law of gravity</a>
