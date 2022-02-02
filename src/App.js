@@ -116,6 +116,10 @@ export default class App extends React.Component {
           </span>
           , so Einstein is stupid or trolling.
         </h2>
+        why is Biden buying energy from Russia, but stopping their pipelines'
+        operational monopolies' target marrgin instead of rent-seeking...
+        especially science - revenue excess labor is profits, for it is not
+        outlayed within a year (0-{"<yearOld"})
         <h3>
           Physics is so peculiar - in calculus we don’t multiply disparate
           units!{" "}
@@ -127,6 +131,18 @@ export default class App extends React.Component {
           multiply a plane of apples and oranges, let alone equate an integral
           (amongst other integrals?) to another, unless a redundant joke!
         </h3>
+        <span
+          style={{
+            fontStyle: "italic"
+          }}
+        >
+          educate one basic open source without obstract dependencies. General
+          Maintenance unit over NSF + USPTO!
+        </span>
+        they are gentrifying HUD rent-seeking beyond units or days not price,
+        racketeering medication without biomedical reason nor consent. THEY LIE
+        ABOUT YOUR ELOPEMENT WHEN REFUSAL TO TAKE THE NEEDLE. I WANT THEIR
+        HEADS!
         <h2>Is E=mc^2 because we live in three dimensions?</h2>
         What's the problem? combustion of cardbon binds CO2, ice cores count
         carbon. light speed squared cross multiplies and cancels out. the&nbsp;
