@@ -106,9 +106,28 @@ export default class App extends React.Component {
           alt="https://www.dl.dropboxusercontent.com/s/t5ueazsx7ikk4ia/magnetboi.jpg?dl=0"
         />
         <h2>
-          Electrons aren’t just “pure energy” but gravity, e=mc^2 cancels out,
-          so Einstein is stupid or trolling.
+          Electrons aren’t just “pure energy” but gravity, e=mc^2{" "}
+          <span
+            style={{
+              textDecoration: "line-through"
+            }}
+          >
+            cancels out
+          </span>
+          , so Einstein is stupid or trolling.
         </h2>
+        <h3>
+          Physics is so peculiar - in calculus we don’t multiply disparate
+          units!{" "}
+          <a href="https://www.nist.gov/si-redefinition/kilogram-kibble-balance">
+            CurrentStrengthLength=milligrams
+          </a>
+          . We can add their derivations to make correlations, and explain
+          endogenous endogenous/endogeniositous factors unmeasured, but never
+          multiply a plane of apples and oranges, let alone equate an integral
+          (amongst other integrals?) to another, unless a redundant joke!
+        </h3>
+        <h2>Is E=mc^2 because we live in three dimensions?</h2>
         What's the problem? combustion of cardbon binds CO2, ice cores count
         carbon. light speed squared cross multiplies and cancels out. the&nbsp;
         <a href="https://micro-theory.com">law of gravity</a>
