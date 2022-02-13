@@ -105,6 +105,12 @@ export default class App extends React.Component {
           src="https://www.dl.dropboxusercontent.com/s/t5ueazsx7ikk4ia/magnetboi.jpg?dl=0"
           alt="https://www.dl.dropboxusercontent.com/s/t5ueazsx7ikk4ia/magnetboi.jpg?dl=0"
         />
+        "
+        <a href="https://www.quora.com/What-physical-constant-is-the-kilogram-based-on">
+          [What's the] physical constant [a] kilogram [is] based on
+        </a>
+        ? "Spherical diameter and density of …water, at a{" "}
+        <a href="https://qr.ae/pGjUO0">cool</a> 66 deg?
         <h2>
           Electrons aren’t just “pure energy” but gravity, e=mc^2{" "}
           <span
