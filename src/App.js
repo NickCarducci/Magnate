@@ -131,8 +131,8 @@ export default class App extends React.Component {
         especially science - revenue excess labor is profits, for it is not
         outlayed within a year (0-{"<yearOld"})
         <h3>
-          Physics is so peculiar - in calculus we don’t multiply disparate
-          units!{" "}
+          <a href="https://froth.app/physics">Physics</a> is so peculiar - in
+          calculus we don’t multiply disparate units!{" "}
           <a href="https://www.nist.gov/si-redefinition/kilogram-kibble-balance">
             CurrentStrengthLength=milligrams
           </a>
@@ -146,8 +146,11 @@ export default class App extends React.Component {
             fontStyle: "italic"
           }}
         >
-          educate one basic open source without obstract dependencies. General
-          Maintenance unit over NSF + USPTO!
+          educate one basic open source without obstract dependencies.{" "}
+          <a href="https://gmunit.us">
+            General Maintenance unit over NSF + USPTO
+          </a>
+          !
         </span>
         they are gentrifying HUD rent-seeking beyond units or days not price,
         racketeering medication without biomedical reason nor consent. THEY LIE
