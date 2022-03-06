@@ -44,7 +44,7 @@ export default class App extends React.Component {
             this.setState({
               scrolling: false
             });
-          }, 900);
+          }, 100);
         }
       );
     }
@@ -71,9 +71,16 @@ export default class App extends React.Component {
         this.setState({ serviceCancelingImages: true });
       }
     };
+    let arrayOfnumbers = [0];
+    const scrollnum = () => {
+      const num = arrayOfnumbers[arrayOfnumbers.length - 1] + 1;
+      arrayOfnumbers.push(num);
+      return num;
+    };
     return (
       <div
         style={{
+          transition: ".3s ease-out",
           position: "relative",
           minHeight: "100vh",
           width: "100%",
@@ -82,6 +89,19 @@ export default class App extends React.Component {
           backgroundColor: "rgb(225, 100, 170)"
         }}
       >
+        <div
+          onClick={() => {
+            window.scroll(0, 100);
+            this.setState({ trigger: true });
+          }}
+          style={{
+            display: this.state.trigger ? "none" : "block",
+            position: "absolute",
+            height: "101%",
+            width: "100%",
+            backgroundColor: "rgba(20,20,20,.5)"
+          }}
+        />
         <img
           alt="plagerism, exclusion and monopoly by Government"
           style={{
@@ -105,6 +125,11 @@ export default class App extends React.Component {
           src="https://www.dl.dropboxusercontent.com/s/t5ueazsx7ikk4ia/magnetboi.jpg?dl=0"
           alt="https://www.dl.dropboxusercontent.com/s/t5ueazsx7ikk4ia/magnetboi.jpg?dl=0"
         />
+        incredible poverty on the cross-referenced life-saving sewage by
+        expenses pronounced by <a href="https://qr.ae/pGdZKZ">labor costs</a>,
+        but forgetting the bottom-bottom line (costs by hour)
+        <br />
+        <br />
         Nuclear reactors use magnets, but it should be directed by torus
         (electron non-deprecation and efficiency "plasma" tokamok...)
         <br />
@@ -174,7 +199,7 @@ export default class App extends React.Component {
           float="right"
           title="Save the Nation (Newsmax) - Myron bell on the energy industry"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 4]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -218,7 +243,7 @@ export default class App extends React.Component {
           float="left"
           title="Stinchfield (Newsmax) - Kelli Ward on Musk free rider immutable support delete function"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 3]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -243,7 +268,7 @@ export default class App extends React.Component {
           float="right"
           title="The Count (Newsmax) - left insistence on industry discretion before willing customers"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 2]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -268,7 +293,7 @@ export default class App extends React.Component {
           float="left"
           title="The Count (Newsmax) - electric vehiicles"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 1]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -287,7 +312,7 @@ export default class App extends React.Component {
           float="right"
           title="John Bachmann Now (Newsmax) - Tom Basile interviews Alex Epstein, Center for Industrial Progress CEO & Founder, 'The Moral Case for Fossil Fuels'"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 6]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -315,24 +340,9 @@ export default class App extends React.Component {
             color: "rgb(230,230,255)",
             backgroundColor: "rgb(32, 22, 11)"
           }}
-          href="https://carducci.sh"
+          href="https://2024nj.com"
         >
-          carducci.sh
-        </a>
-        <a
-          style={{
-            shapeOutside: "rect()",
-            float: "left",
-            width: "max-content",
-            padding: "0px 10px",
-            fontSize: "20px",
-            fontFamily: "'Pacifico', sans-serif",
-            color: "rgb(230,230,255)",
-            backgroundColor: "rgb(32, 22, 11)"
-          }}
-          href="https://carducci.us"
-        >
-          carducci.us
+          2024nj.com
         </a>
       </div>
     );
