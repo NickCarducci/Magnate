@@ -105,6 +105,9 @@ export default class App extends React.Component {
           src="https://www.dl.dropboxusercontent.com/s/t5ueazsx7ikk4ia/magnetboi.jpg?dl=0"
           alt="https://www.dl.dropboxusercontent.com/s/t5ueazsx7ikk4ia/magnetboi.jpg?dl=0"
         />
+        Nuclear reactors use magnets, but it should be directed by torus
+        <br />
+        <br />
         does energy have its own real world prevalence, like seconds or meters
         <br />"
         <a href="https://www.quora.com/What-physical-constant-is-the-kilogram-based-on">
@@ -178,9 +181,15 @@ export default class App extends React.Component {
           <a href="https://magnate.mobi">generators</a>, splash,{" "}
           <a href="https://magnate.auto">model</a>
         </h2>
-        It is just a torus again, accelerate, mount or just clip whole iridium
-        wrap on to ...radius exxacltly in thickness
-        <br />
+        <div
+          style={{
+            backgroundColor: "navy",
+            color: "white"
+          }}
+        >
+          It is just a torus again, accelerate, mount or just clip whole iridium
+          wrap on to ...radius exxacltly in thickness
+        </div>
         <a
           style={{ wordBreak: "break-word" }}
           href="https://www.academia.edu/45132997/Written_for_National_Science_Foundation_Project_Pitch"
