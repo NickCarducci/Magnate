@@ -106,6 +106,7 @@ export default class App extends React.Component {
           alt="https://www.dl.dropboxusercontent.com/s/t5ueazsx7ikk4ia/magnetboi.jpg?dl=0"
         />
         Nuclear reactors use magnets, but it should be directed by torus
+        (electron non-deprecation and efficiency "plasma" tokamok...)
         <br />
         <br />
         does energy have its own real world prevalence, like seconds or meters
