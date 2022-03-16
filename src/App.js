@@ -328,7 +328,12 @@ export default class App extends React.Component {
           title="YouTube video player"
         />
         95% rare earth china needed for ev, have electric care but cannot
-        produce electricity.”
+        produce electricity.” nuclear explodes and jobs for retarded republicans
+        and democrats station front running without actual demand yet for leases
+        to treasury instead of keep as is fungible for UT NM WY as we move to
+        transaction-fee currency, with royalty and drilling sign off for 11/12
+        dollar owners, 1/hour-GDP/p efficiency (income/hour)/home is more than
+        expenses third of income
         <a
           style={{
             shapeOutside: "rect()",
