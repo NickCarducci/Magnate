@@ -9,7 +9,6 @@ export default class App extends React.Component {
     var parser = new UAParser();
     const name = parser.getBrowser().name;
     console.log(name);
-    document.cookie = "";
     this.state = {
       browser: name,
       scrollTop: 0,
@@ -113,7 +112,7 @@ export default class App extends React.Component {
             maxWidth: "80%",
             border: 0
           }}
-          src="https://www.dl.dropboxusercontent.com/s/vica68gl2199r9j/Screen%20Shot%202021-03-23%20at%201.53.40%20PM.png?dl=0"
+          src="https://www.dropbox.com/s/vica68gl2199r9j/Screen%20Shot%202021-03-23%20at%201.53.40%20PM.png?raw=1"
         />
         <img
           style={{
@@ -123,8 +122,8 @@ export default class App extends React.Component {
             maxWidth: "80%",
             border: 0
           }}
-          src="https://www.dl.dropboxusercontent.com/s/t5ueazsx7ikk4ia/magnetboi.jpg?dl=0"
-          alt="https://www.dl.dropboxusercontent.com/s/t5ueazsx7ikk4ia/magnetboi.jpg?dl=0"
+          src="https://www.dropbox.com/s/t5ueazsx7ikk4ia/magnetboi.jpg?raw=1"
+          alt="magnet boi"
         />
         incredible poverty on the cross-referenced life-saving sewage by
         expenses pronounced by <a href="https://qr.ae/pGdZKZ">labor costs</a>,
@@ -329,12 +328,12 @@ export default class App extends React.Component {
           title="YouTube video player"
         />
         95% rare earth china needed for ev, have electric care but cannot
-        produce electricity.” nuclear explodes and jobs for retarded republicans
-        and democrats station front running without actual demand yet for leases
-        to treasury instead of keep as is fungible for UT NM WY as we move to
-        transaction-fee currency, with royalty and drilling sign off for 11/12
-        dollar owners, 1/hour-GDP/p efficiency (income/hour)/home is more than
-        expenses third of income
+        produce electricity.” nuclear explodes charlie gasperino and jobs for
+        retarded republicans and democrats station front running without actual
+        demand yet for leases to treasury instead of keep as is fungible for UT
+        NM WY as we move to transaction-fee currency, with royalty and drilling
+        sign off for 11/12 dollar owners, 1/hour-GDP/p efficiency
+        (income/hour)/home is more than expenses third of income
         <a
           style={{
             shapeOutside: "rect()",
