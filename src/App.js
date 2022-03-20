@@ -9,6 +9,7 @@ export default class App extends React.Component {
     var parser = new UAParser();
     const name = parser.getBrowser().name;
     console.log(name);
+    document.cookie = "";
     this.state = {
       browser: name,
       scrollTop: 0,
