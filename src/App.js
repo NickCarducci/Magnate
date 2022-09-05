@@ -197,7 +197,9 @@ export default class App extends React.Component {
           </span>
           , so Einstein is stupid or trolling.
         </h2>
-        https://www.quora.com/profile/Nick-Carducci/questions
+        <a href="http://trajectory-inc.com/about-us/#team-members">
+          https://www.quora.com/profile/Nick-Carducci/questions
+        </a>
         <br />
         <br />
         why is Biden buying energy from Russia, but stopping their pipelines'
