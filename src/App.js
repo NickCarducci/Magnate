@@ -102,6 +102,47 @@ export default class App extends React.Component {
             backgroundColor: "rgba(20,20,20,.5)"
           }}
         />
+        <br />
+        <div
+          style={{
+            textAlign: "left",
+            padding: "10px",
+            margin: "10px",
+            width: "calc(100% - 40px)",
+            border: "1px solid"
+          }}
+        >
+          Why are there no fusion reactor cars?
+          <br />
+          Barry Gehm · Follow Asst. Prof. Of Chemistry/Biochemistry
+          <br />
+          There are no fusion reactors that produce positive net energy, and the
+          ones that come closest are building- sized, not vehicle-engine sized.
+          <br />I mean for to not deprecate the electromagnets of the battery,
+          polarize them in the manufacturing. This can be very tiny and
+          replicated as if semiconductor. Is that a semiconductor?
+          <br />
+          Why aren't fusion reactors made for the phone?
+          <br />
+          Ajmal Niaz · Follow Studied at NED University of Engineering and
+          Technology
+          <br />
+          I got one. built just for your phone )whatever make & model it
+          happened to be.
+          <br />
+          You know by combining 2 hydrogen atoms, tremendous power is produced.
+          Not to start this fusion, extremely high temperature is required. It
+          even not practice to build fission reactors, let alone phone power.
+          <br />
+          <a href="https://www.quora.com/unanswered/If-a-torus-reactor-were-not-prevented-by-the-government-to-keep-us-working-would-Larry-Kudlow-melt-into-a-puddle">
+            If a torus reactor were not prevented by the government to keep us
+            working, would Larry Kudlow melt into a puddle?
+          </a>
+          <br />
+          <a href="https://commie.dev">commie.dev</a>, to make labor superfluous
+          does the social not beg for labor time
+        </div>
+        <br />
         <img
           alt="plagerism, exclusion and monopoly by Government"
           style={{
