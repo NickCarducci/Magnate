@@ -77,6 +77,7 @@ export default class App extends React.Component {
       arrayOfnumbers.push(num);
       return num;
     };
+    const space = " ";
     return (
       <div
         style={{
@@ -112,7 +113,13 @@ export default class App extends React.Component {
             border: "1px solid"
           }}
         >
-          Why are there no fusion reactor cars?
+          It's a{space}
+          <a href="https://humanharvest.info">simple</a>
+          {space},{space}
+          <a href="https://vaults.biz">question</a>:
+          <br />
+          Why are there no [tiny] fusion reactor{" "}
+          <span style={{ textDecoration: "line-through" }}>cars</span>?
           <br />
           Barry Gehm · Follow Asst. Prof. Of Chemistry/Biochemistry
           <br />
