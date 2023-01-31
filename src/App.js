@@ -113,7 +113,16 @@ export default class App extends React.Component {
             border: "1px solid"
           }}
         >
-          <h3>Magnet deprecation</h3>
+          <h3>
+            <a
+              href="https://markethistory.quora.com/What-was-Adam-Smiths-theory-on-inequality-1"
+              style={{
+                color: "black"
+              }}
+            >
+              Magnet deprecation
+            </a>
+          </h3>
           It's a{space}
           <a href="https://humanharvest.info">simple</a>
           {space},{space}
