@@ -113,6 +113,7 @@ export default class App extends React.Component {
             border: "1px solid"
           }}
         >
+          <h3>Magnet deprecation</h3>
           It's a{space}
           <a href="https://humanharvest.info">simple</a>
           {space},{space}
